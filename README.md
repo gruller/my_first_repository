@@ -1,2 +1,5 @@
 # README #
-this is just a test for the README file
+
+This is my first GitHub Repository!
+
+Here is some more text.
