@@ -11,3 +11,5 @@ Great job! Keep going! This is a practice PULL!
 Hello! Today I would like you to review this as a PULL, and go over some more Ruby exercises before moving on to the next segment.
 
 You got it! This is a practice PUSH to the PRACTICE.md file.
+
+HELLO. today is MONDAY. practice PUSHING this to your remote repo, please.
